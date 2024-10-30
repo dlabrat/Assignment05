@@ -1,5 +1,6 @@
 //  Curtousy of ChatGPT 
 
+document.addEventListener('DOMContentLoaded', () => {
 // Select the form element by its ID
 const form = document.getElementById('empForm');
 
@@ -26,5 +27,6 @@ form.addEventListener('submit', (e) => {
     console.log(`Department: ${dept}`);
 
     // Perform additional actions here
-    console.log('Some messages have been moved.');
+    console.log('');
+});
 });

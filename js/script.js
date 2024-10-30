@@ -1,4 +1,4 @@
-//  Curtousy of ChatGPT 
+// Much of this curtousy of ChatGPT 
 
 document.addEventListener('DOMContentLoaded', () => {
 // Select the form element by its ID
